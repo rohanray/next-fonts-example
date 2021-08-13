@@ -15,7 +15,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "antd": "^3.26.15",
-    "next": "^9.3.5",
+    "next": "^11.1.0",
     "next-fonts": "^1.1.0",
     "null-loader": "^3.0.0",
     "react": "^16.13.1",
